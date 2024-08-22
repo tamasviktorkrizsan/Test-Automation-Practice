@@ -1,0 +1,14 @@
+{
+  "name": "test-automation-final-task-tamas-krizsan",
+  "scripts": {
+    "wdio": "wdio run src/configs/wdio.conf.js"
+  },
+  "devDependencies": {
+    "@wdio/cli": "^9.0.5",
+    "@wdio/junit-reporter": "^9.0.4",
+    "@wdio/local-runner": "^9.0.5",
+    "@wdio/mocha-framework": "^9.0.5",
+    "@wdio/spec-reporter": "^9.0.4",
+    "wdio-wait-for": "^3.0.11"
+  }
+}
