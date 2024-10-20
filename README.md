@@ -1,5 +1,5 @@
-# Test-Automation-Final-Task-Tamas-Krizsan
-Test Automation Final Task Repository
+# Test-Automation-Practice
+Test Automation Practice Repository
 
 ## Test Cases
 
